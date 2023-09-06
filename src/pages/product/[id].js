@@ -14,7 +14,7 @@ export default function ProductDetail({data}){
                     <h4 className="text-green-600 font-bold">{data.price}</h4>
                     <p className="py-5">{data.description}</p>
 
-                    <button className="font-bold bg-amber-300 p-3 mt-5 hover:bg-blue-200">Add to Cart</button>
+                    <button className="font-bold bg-amber-300 p-3 mt-5 hover:bg-blue-2  00">Add to Cart</button>
                 </div>
             </div>
 
