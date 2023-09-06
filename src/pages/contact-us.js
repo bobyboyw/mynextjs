@@ -4,7 +4,7 @@ export default function ContactUs(){
             <h1 className="text-2xl font-bold">Contact Us</h1>
             <div class="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
                 <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">Contact Us</h2>
-                <p class="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Klo ada kendala maupun ada yg ngganjel ingin ditanyakeun? Monggo sederek kawulo bisa menghubungi saya lwt hp maupun email.</p>
+                <p class="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Klo ada kendala maupun ada yg ngganjel ingin ditanyakeun? Monggo dipersilahkeun sederek kawulo bisa menghubungi saya lwt hp maupun email.</p>
                 <form action="#" class="space-y-8">
                     <div>
                         <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Email Anda</label>
